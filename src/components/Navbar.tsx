@@ -14,7 +14,7 @@ const navLinks = [
   { href: '#program', label: 'Program' },
   { href: '#registration', label: 'Registration' },
   { href: '#venue', label: 'Venue' },
-  { href: '#organizers', label: 'Organizers' },
+  { href: '#coreteam', label: 'Core Team' },
 ];
 
 const Navbar = () => {

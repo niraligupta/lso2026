@@ -1,16 +1,17 @@
 import { GraduationCap, BookOpen, Briefcase, Users } from 'lucide-react';
 
 const topics = [
-  'Applications in logistics and transportation',
-  'Benders decomposition',
-  'Column generation',
-  'Computational complexity in optimization',
-  'Cutting plane methods',
-  'Dantzig-Wolfe decomposition',
-  'Heuristic methods',
+  'Optimization Modeling',
+  'Polyhedral theory',
   'Lagrangean relaxation',
+  'Branch-and-Bound, Branch-and-Cut, and Branch-and-Price',
+  'Cutting plane methods',
+  'Benders decomposition',
+  'Column Generation',
+  'Nonlinear optimization',
   'Robust optimization',
-  'Valid inequalities and polar duality',
+  'Heuristic methods',
+  'Approximation algorithms',
 ];
 
 const audiences = [
